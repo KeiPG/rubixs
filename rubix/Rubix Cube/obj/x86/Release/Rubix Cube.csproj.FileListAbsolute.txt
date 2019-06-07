@@ -1,0 +1,11 @@
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\x86\Release\Rubix Cube.exe.manifest
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\x86\Release\Rubix Cube.application
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\x86\Release\Rubix Cube.exe
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\x86\Release\Rubix Cube.pdb
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.csprojResolveAssemblyReference.cache
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix.UI.resources
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.csproj.GenerateResource.Cache
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.exe.manifest
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.application
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.exe
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\x86\Release\Rubix Cube.pdb

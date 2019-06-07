@@ -1,0 +1,54 @@
+C:\RubixCube\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe
+C:\RubixCube\rubix\Rubix Cube\bin\Debug\Rubix Cube.pdb
+C:\RubixCube\rubix\Rubix Cube\obj\Debug\ResolveAssemblyReference.cache
+C:\RubixCube\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe
+C:\RubixCube\rubix\Rubix Cube\obj\Debug\Rubix Cube.pdb
+\\henleycol\dfs\HomeYearA\966151\Documents\rubix\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe
+\\henleycol\dfs\HomeYearA\966151\Documents\rubix\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.pdb
+\\henleycol\dfs\HomeYearA\966151\Documents\rubix\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.csprojResolveAssemblyReference.cache
+F:\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe
+F:\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.pdb
+F:\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.csprojResolveAssemblyReference.cache
+F:\rubix\rubix\Rubix Cube\obj\Debug\Rubix.UI.resources
+F:\rubix\rubix\Rubix Cube\obj\Debug\Rubix Cube.csproj.GenerateResource.Cache
+F:\rubix\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe
+F:\rubix\rubix\Rubix Cube\bin\Debug\Rubix Cube.pdb
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3D.dll
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.DirectInput.dll
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.dll
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.xml
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3D.xml
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+F:\rubix\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.pdb
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\Debug\Rubix Cube.pdb
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.csprojResolveAssemblyReference.cache
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix.UI.resources
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.csproj.GenerateResource.Cache
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe.manifest
+C:\Users\Kei\Documents\rubix\Rubix Cube\bin\Debug\Rubix Cube.application
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe.manifest
+C:\Users\Kei\Documents\rubix\Rubix Cube\obj\Debug\Rubix Cube.application
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix.UI.resources
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.csproj.GenerateResource.cache
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.csproj.CoreCompileInputs.cache
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.pdb
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe.manifest
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Rubix Cube.application
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Rubix Cube.exe
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Rubix Cube.pdb
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.dll
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.xml
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.exe.manifest
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.application
+C:\Users\keigi\OneDrive\Desktop\rubix\Rubix Cube\obj\Debug\Rubix Cube.csproj.CopyComplete
